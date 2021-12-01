@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deynabaevax
 - 🌱 I’m currently doing my bachelor in ICT & Software Engineering
-- 👀 I’m interested in finding new ways to improve myself
+- 👀 I’m looking for new opportunities to improve myself
 - 📫 How to reach me: https://www.linkedin.com/in/deyna-baeva
 
 <!---
