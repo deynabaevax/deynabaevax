@@ -4,7 +4,14 @@
 
 <h1 align="center">Hi there, I'm Deyna! <img src="https://user-images.githubusercontent.com/19320674/110816895-0e302280-828c-11eb-9d7a-bff86c13041b.gif" width="33px" alt="Waving"></h1>
 
-<p align="center">Software Engineering student</p>
+<p>
+    I am currently in the final stages of my degree in ICT & Software Engineering with a specialization in Artificial Intelligence. 
+</p>
+<p> By virtue of my engagement in diverse individual and collective ventures, I have nurtured a tremendous interest in leveraging data to enhance the well-being of humanity and the world at large. I am driven by an unquenchable thirst for knowledge and a burning desire to improve myself every day.
+</p>
+    <p>I eagerly welcome all challenges that come my way, always striving to make a meaningful contribution to the field of IT and to make the world a better place using technology. 
+</p>
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/deyna-baeva/">
