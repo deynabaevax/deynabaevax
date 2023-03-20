@@ -1,20 +1,26 @@
-<p align="center">
-    <img width="200px" src="https://user-images.githubusercontent.com/100136834/154977859-1496b860-01bb-4341-bbc3-2bd3a90dd3ee.PNG" align="center" alt="Icon with laptop" />
-</p>
+# 👩🏻‍💻 Deyna Baeva
 
-<h1 align="center">Hi there, I'm Deyna! <img src="https://user-images.githubusercontent.com/19320674/110816895-0e302280-828c-11eb-9d7a-bff86c13041b.gif" width="33px" alt="Waving"></h1>
+**`Artificial Intelligence Student`** 
 
-<p>
-    I am currently in the final stages of my degree in ICT & Software Engineering with a specialization in Artificial Intelligence. 
-</p>
-<p> By virtue of my engagement in diverse individual and collective ventures, I have nurtured a tremendous interest in leveraging data to enhance the well-being of humanity and the world at large. I am driven by an unquenchable thirst for knowledge and a burning desire to improve myself every day.
-</p>
-    <p>I eagerly welcome all challenges that come my way, always striving to make a meaningful contribution to the field of IT and to make the world a better place using technology. 
-</p>
+Hello there! 👋🏼
+
+I'm a soon-to-be ICT & Software Engineering graduate with a specialization in Artificial Intelligence. But that's just the tip of the iceberg.
+
+I've got a real passion for using data to positively impact the society. Whether working solo or in a group, I've tackled various projects that have only fueled my insatiable thirst for knowledge and self-improvement.
+
+Challenges don't intimidate me - in fact, I welcome them with open arms. My ultimate goal is to make a meaningful contribution to the IT industry and, in turn, make the world a better place through the power of technology.
+<hr>
+
+<h2>🛠️ My Favorite Tools</h2>
+  <p>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  </p>
 
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/deyna-baeva/">
-        <img src="https://img.shields.io/badge/DEYNA_BAEVA-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deynabaeva/" alt="LinkedIn Badge"/>
-    </a>
-</p>
