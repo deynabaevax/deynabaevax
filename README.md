@@ -4,7 +4,7 @@
 
 Hello there! 👋🏼
 
-I'm a soon-to-be ICT & Software Engineering graduate with a specialization in Artificial Intelligence. But that's just the tip of the iceberg.
+I'm a ICT & Software Engineering bachelor graduate with a specialization in Artificial Intelligence, and I'm currently doing my master of Applied IT. But that's just the tip of the iceberg.
 
 I've got a real passion for using data to positively impact the society. Whether working solo or in a group, I've tackled various projects that have only fueled my insatiable thirst for knowledge and self-improvement.
 
