@@ -1,14 +1,15 @@
 # 👩🏻‍💻 Deyna Baeva
 
-**`Artificial Intelligence Student`** 
+**`AI & Data Science Enthusiast`** 
 
 Hello there! 👋🏼
 
-I'm a ICT & Software Engineering bachelor graduate with a specialization in Artificial Intelligence, and I'm currently doing my master of Applied IT. But that's just the tip of the iceberg.
+👩‍🎓 With both a Master’s in Applied IT (focused on Data Science) and a Bachelor’s in ICT & Software Engineering (focused on AI) in the bag, I’m all about solving real-world problems with data-driven solutions.
 
-I've got a real passion for using data to positively impact the society. Whether working solo or in a group, I've tackled various projects that have only fueled my insatiable thirst for knowledge and self-improvement.
+🌱 I’m passionate about turning data into meaningful insights and develop solutions that create a positive impact on society. Whether working solo or in a group, I've tackled various projects that have only fueled my insatiable thirst for knowledge and self-improvement.
 
-Challenges don't intimidate me - in fact, I welcome them with open arms. My ultimate goal is to make a meaningful contribution to the IT industry and, in turn, make the world a better place through the power of technology.
+💡 Challenges don't intimidate me - in fact, I welcome them with open arms. My goal is to contribute to the AI & IT industry by building innovative, data-driven solutions that make the world a better place.
+
 <hr>
 
 <h2>🛠️ My Favorite Tools</h2>
